@@ -1,9 +1,16 @@
 {
-  "name": "com.gvm.bb",
+  "name": "@giovannimilizianoags/dummypackage1",
   "version": "3.0.0",
   "displayName": "dummy package",
   "description": "C# test",
   "unity": "2021.3",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GiovanniMilizianoAGS/DummyPackage2.git"
+  },
   "keywords": [
     "keyword1",
     "keyword2",
